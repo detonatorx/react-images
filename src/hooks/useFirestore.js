@@ -7,7 +7,7 @@ const useFirestore = collection => {
   useEffect(() => {
     const unsubscribed = projectFirestore
       .collection(collection)
-      .orderBy('createdAt')
+      .orderBy('createdAt', 'desc')
       .onSnapshot(snap => {
         let documents = [];
 
