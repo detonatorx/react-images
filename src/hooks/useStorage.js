@@ -30,6 +30,7 @@ const useStorage = file => {
       }
     );
   }, [file]);
+
   return { progress, url, error };
 };
 

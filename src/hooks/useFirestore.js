@@ -20,6 +20,7 @@ const useFirestore = collection => {
 
     return () => unsubscribed();
   }, [collection]);
+
   return { docs };
 };
 
