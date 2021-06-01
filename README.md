@@ -4,7 +4,7 @@
 
 **Single-page приложение на React'е, бэкэнд на основе Firebase Storage**
 
-<a href="https://ibb.co/6NyTDwf"><img src="https://i.ibb.co/6NyTDwf/Screenshot-2021-06-01-at-21-15-24.png" alt="Screenshot-2021-06-01-at-21-15-24" border="0"></a>
+<a href="https://ibb.co/6NyTDwf"><img src="https://i.ibb.co/jH8Q3f1/Screenshot-2021-06-01-at-21-15-24.png" alt="Screenshot-2021-06-01-at-21-15-24" border="0"></a>
 
 Приложение позволяет подгружать картинки определенного формата в хранилище Google. Часть логики вынесена в кастомные хуки. Отдельную картинку можно просмотреть во всплывающем модальном окне. Также реализована небольшая анимация с использованием сторонней библиотеки. 
 
